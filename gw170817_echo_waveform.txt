@@ -1,0 +1,6 @@
+# Vortex TOE Echo Waveform for GW170817
+# t (ms), h (normalized strain)
+0.00, 1.0000
+0.038, 0.2160  # First echo (resonance-boosted)
+0.076, 0.0720  # Second echo
+0.114, 0.0270  # Third echo
