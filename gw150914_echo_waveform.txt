@@ -1,0 +1,10 @@
+# Vortex TOE Echo Waveform for GW150914
+# t (ms), h (normalized strain)
+0.00, 1.0000
+0.87, 0.2120   # First echo (resonance-boosted)
+1.74, 0.0710   # Second echo
+2.61, 0.0270   # Third echo
+5.00, 0.2150
+10.00, 0.0420
+15.00, 0.0080
+20.00, 0.0020
